@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [TikTok-dev]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
-arch = "both"
-build-mode = "both"
+patches-version = "dev"
 version = "41.9.3"
+included-patches = "'SIM spoof'"
+excluded-patches = "'Feed filter' 'Downloads' 'Playback speed' 'Settings'"
