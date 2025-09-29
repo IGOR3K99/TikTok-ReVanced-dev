@@ -1,4 +1,4 @@
-YouTube: 20.12.46  
+TikTok-dev: 41.9.3  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK  
 
@@ -7,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 [ReVanced](https://github.com/IGOR3K99/ReVanced)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.24.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.24.0)  
+Patches: ReVanced/patches-5.42.0-dev.5.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.42.0-dev.5)  
